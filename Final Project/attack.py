@@ -31,7 +31,7 @@ secure_app.DB_PATH = TEST_DB
 insecure_app.DB_PATH = TEST_DB
 secure_app._attempt_tracker.clear()
 
-SCHEMA = os.path.join(os.path.dirname(os.path.dirname(__file__)), "db", "schema.sql")
+SCHEMA = os.path.join(os.path.dirname(__file__), "db", "schema.sql")
 
 
 def _hash(pw):
