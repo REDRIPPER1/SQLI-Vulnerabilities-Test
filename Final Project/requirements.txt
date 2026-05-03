@@ -1,0 +1,17 @@
+# SQL Injection Lab — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Password hashing (strongly recommended)
+bcrypt>=4.0.0
+
+# Testing framework
+pytest>=7.0.0
+
+# Optional: MySQL support
+# mysql-connector-python>=8.0.0
+
+# Optional: PostgreSQL support
+# psycopg2-binary>=2.9.0
+
+# Optional: SQLAlchemy ORM examples
+# SQLAlchemy>=2.0.0

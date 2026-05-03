@@ -1,0 +1,88 @@
+2026-05-02 13:28:59,145 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 13:28:59,149 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 13:28:59,465 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:28:59,746 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:29:00,027 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:29:00,304 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:29:00,566 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:29:00,572 [WARNING] Rate limit triggered for username: 'alice'
+2026-05-02 13:51:04,992 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 13:51:04,997 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 13:51:05,293 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:51:05,567 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:51:05,822 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:51:06,073 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:51:06,315 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 13:51:06,317 [WARNING] Rate limit triggered for username: 'alice'
+2026-05-02 14:06:36,503 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 14:06:36,509 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 14:06:36,830 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 14:06:37,120 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 14:06:37,399 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 14:06:37,638 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 14:06:37,889 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 14:06:37,892 [WARNING] Rate limit triggered for username: 'alice'
+2026-05-02 15:08:07,465 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:08:07,474 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:08:07,484 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:08:07,493 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:08:07,504 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:08:07,507 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 15:08:07,507 [WARNING] Invalid username format rejected: "admin'/*"
+2026-05-02 15:08:07,508 [WARNING] Invalid username format rejected: "admin'#"
+2026-05-02 15:09:05,847 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:09:05,863 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:09:05,880 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:09:05,894 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:09:05,907 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:09:05,909 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 15:09:05,911 [WARNING] Invalid username format rejected: "admin'/*"
+2026-05-02 15:09:05,913 [WARNING] Invalid username format rejected: "admin'#"
+2026-05-02 15:09:05,920 [WARNING] Invalid username format rejected: "admin'; DROP TABLE users;--"
+2026-05-02 15:09:05,922 [WARNING] Invalid username format rejected: "alice'; UPDATE users SET role='admin';--"
+2026-05-02 15:10:06,385 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:06,395 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:06,400 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:06,409 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:06,414 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:06,415 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 15:10:06,416 [WARNING] Invalid username format rejected: "admin'/*"
+2026-05-02 15:10:06,416 [WARNING] Invalid username format rejected: "admin'#"
+2026-05-02 15:10:06,418 [WARNING] Invalid username format rejected: "admin'; DROP TABLE users;--"
+2026-05-02 15:10:06,419 [WARNING] Invalid username format rejected: "alice'; UPDATE users SET role='admin';--"
+2026-05-02 15:10:45,559 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:45,571 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:45,586 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:45,595 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:45,605 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:10:45,605 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 15:10:45,606 [WARNING] Invalid username format rejected: "admin'/*"
+2026-05-02 15:10:45,608 [WARNING] Invalid username format rejected: "admin'#"
+2026-05-02 15:10:45,611 [WARNING] Invalid username format rejected: "admin'; DROP TABLE users;--"
+2026-05-02 15:10:45,612 [WARNING] Invalid username format rejected: "alice'; UPDATE users SET role='admin';--"
+2026-05-02 15:23:59,412 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:23:59,415 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 15:23:59,685 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:23:59,949 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:00,262 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:00,629 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:01,046 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:01,049 [WARNING] Rate limit triggered for username: 'alice'
+2026-05-02 15:24:11,128 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:24:11,136 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 15:24:11,540 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:11,817 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:12,078 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:12,378 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:12,672 [INFO] Login failed (wrong password): 'alice'
+2026-05-02 15:24:12,676 [WARNING] Rate limit triggered for username: 'alice'
+2026-05-02 15:24:20,272 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:24:20,283 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:24:20,290 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:24:20,298 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:24:20,303 [INFO] Login failed (wrong password): 'admin'
+2026-05-02 15:24:20,304 [WARNING] Invalid username format rejected: "admin'--"
+2026-05-02 15:24:20,305 [WARNING] Invalid username format rejected: "admin'/*"
+2026-05-02 15:24:20,306 [WARNING] Invalid username format rejected: "admin'#"
+2026-05-02 15:24:20,308 [WARNING] Invalid username format rejected: "admin'; DROP TABLE users;--"
+2026-05-02 15:24:20,309 [WARNING] Invalid username format rejected: "alice'; UPDATE users SET role='admin';--"
